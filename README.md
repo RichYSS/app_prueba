@@ -1,4 +1,6 @@
 <h1>Sitema de registro</h1>
--Estado del proyecto: En construcción
+<p>-Estado del proyecto: En construcción</p>
 
 ``` node [Nombre del archivo] ```
+
+<p>Actualizacion de registro 2.0</p>
